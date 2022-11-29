@@ -11,6 +11,7 @@ Once you have run it you should have a folder with different files:
 - DMs-Archive-USER.md
 - followers.txt
 - following.txt
+
 And the folders:
 - assets
 - data
