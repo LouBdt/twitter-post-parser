@@ -2,6 +2,7 @@
 Python script that is to be used after parsing your twitter archive with Tim Hutton's archive parser :https://github.com/timhutton/twitter-archive-parser.
 
 =========How to use it=========
+
 Once you have downloaded your twitter archive, follow instructions at https://github.com/timhutton/twitter-archive-parser/blob/main/README.md
 
 Once you have run it you should have a folder with different files:
